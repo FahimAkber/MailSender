@@ -1,0 +1,11 @@
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\bin\Debug\netstandard2.0\Models.dll
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\DCL\Desktop\ASP.NET MVC\Mail Sender\Services\obj\Debug\netstandard2.0\Services.pdb
